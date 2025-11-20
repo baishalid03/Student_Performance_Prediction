@@ -1,0 +1,11 @@
+study_hours,attendance_percent,prev_grade,family_support,extracurricular,final_score
+2,60,55,yes,no,50
+3,70,60,yes,yes,62
+1,50,40,no,no,35
+4,80,65,yes,yes,75
+5,90,70,yes,yes,88
+2,65,50,no,yes,55
+6,95,80,yes,no,92
+3,78,58,no,yes,68
+1,45,30,no,no,25
+4,85,67,yes,yes,80
